@@ -1,0 +1,55 @@
+
+flipcard.png
+size: 2048, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+back
+  rotate: false
+  xy: 333, 2
+  size: 329, 343
+  orig: 329, 343
+  offset: 0, 0
+  index: -1
+card
+  rotate: false
+  xy: 2, 347
+  size: 329, 343
+  orig: 329, 343
+  offset: 0, 0
+  index: 4
+card
+  rotate: false
+  xy: 2, 2
+  size: 329, 343
+  orig: 329, 343
+  offset: 0, 0
+  index: 1
+card
+  rotate: false
+  xy: 333, 347
+  size: 329, 343
+  orig: 329, 343
+  offset: 0, 0
+  index: 6
+card
+  rotate: false
+  xy: 664, 347
+  size: 329, 343
+  orig: 329, 343
+  offset: 0, 0
+  index: 3
+card
+  rotate: false
+  xy: 664, 2
+  size: 329, 343
+  orig: 329, 343
+  offset: 0, 0
+  index: 5
+card
+  rotate: false
+  xy: 995, 347
+  size: 329, 343
+  orig: 329, 343
+  offset: 0, 0
+  index: 2
